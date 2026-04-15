@@ -18,16 +18,6 @@ Dibangun menggunakan **Python** + **Streamlit** dengan desain dark-mode yang mod
 
 ---
 
-## 📸 Tangkapan Layar
-
-> Buka `http://localhost:8501` setelah menjalankan aplikasi.
-
-| Tampilan Awal | Hasil BMI Normal | Hasil BMI Obesitas |
-|---|---|---|
-| Input berat & tinggi | Kartu hijau + rekomendasi | Kartu merah + peringatan |
-
----
-
 ## 🚀 Cara Menjalankan
 
 ### 1. Prasyarat
