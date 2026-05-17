@@ -110,7 +110,3 @@ $$BMI = \frac{\text{Berat Badan (kg)}}{\text{Tinggi Badan (m)}^2}$$
 Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan, dimodifikasi, dan didistribusikan.
 
 ---
-
-<div align="center">
-  Dibuat dengan ❤️ menggunakan <a href="https://streamlit.io">Streamlit</a>
-</div>
