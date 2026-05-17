@@ -50,13 +50,13 @@ python -m pip install streamlit pillow
 ### 4. Jalankan Aplikasi
 
 ```bash
-streamlit run "main..py"
+streamlit run "main.py"
 ```
 
 atau:
 
 ```bash
-python -m streamlit run "main..py"
+python -m streamlit run "main.py"
 ```
 
 ### 5. Buka di Browser
