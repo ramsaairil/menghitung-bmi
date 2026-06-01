@@ -69,7 +69,7 @@ Akses aplikasi di: **http://localhost:8501**
 
 ```
 menghitung-bmi/
-├── main..py       # File utama aplikasi Streamlit
+├── main.py       # File utama aplikasi Streamlit
 ├── bmi.png        # Aset gambar (legacy)
 └── README.md      # Dokumentasi ini
 ```
